@@ -19,12 +19,12 @@
 
 #### 앱스토어   
 
-Mobile: [커리어세이프티 바로가기](itms-apps://itunes.apple.com/app/6504982082)  
+Mobile: [커리어세이프티 바로기기](https://itms-apps://itunes.apple.com/app/6504982082)  
 PC: [커리어세이프티 바로가기](https://apps.apple.com/kr/app/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%84%B8%EC%9D%B4%ED%94%84%ED%8B%B0/id6504982082)
 
 #### 구글스토어  
 
-Mobile: [커리어세이프티 바로가기](market://details?id=kr.co.career.careersafety)  
+Mobile: [커리어세이프티 바로가기](https://market://details?id=kr.co.career.careersafety)  
 PC :[커리어세이프티 바로가기](https://play.google.com/store/apps/details?id=kr.co.career.careersafety&hl=ko)
 
 
