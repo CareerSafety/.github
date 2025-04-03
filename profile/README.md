@@ -25,6 +25,27 @@
 
 [커리어세이프티 바로가기](https://play.google.com/store/apps/details?id=kr.co.career.careersafety&hl=ko)
 
+---
+### CareerSafety Next.js Folder Convention  
+
+### 개요  
+-	목적: 프로젝트 구조를 일관되고 효율적으로 관리하여, 코드 가독성 및 유지보수성을 높인다.
+
+-	대상: Next.js + TypeScript/JavaScript 프로젝트  
+현재 문서가 수정된 2025.04.03 기준으로 github organization repository `careerAdmin`, `careerClient` 프로젝트를 대상으로 한다.
+
+<br>
+본 문서는 Next.js App Router 기반 프로젝트에서, pages 폴더 및 containers 폴더를 구성하여 작업하는 방식을 예시로 들어 설명합니다.
+
+<br>
+<br>
+
+<상세보기>  
+<img src="https://img.shields.io/badge/GitHub-white?style=plastic&logo=GitHub&logoColor=black"/> - https://github.com/CareerSafety/.github/blob/main/NextConvention.md  
+<img src="https://img.shields.io/badge/Notion-white?style=plastic&logo=Notion&logoColor=black"/> - https://horse-vein-162.notion.site/CareerSafety-Next-js-Folder-Convention-1caf5188d863803fbd5efefabc3c3666
+
+
+<!--style=[배지의 모양 :(plastic, flat, flat-square, for-the-badge, social)중 하나만 골라 넣는다.]-->
 
 
 <!--
